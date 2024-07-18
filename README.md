@@ -16,3 +16,4 @@ links to various databases
 | Plants | Plants | Chromosome Counts Database | http://ccdb.tau.ac.il |
 | Plants, Animals, Fungi | Plants, Animals, Fungi | B-chrom | http://www.bchrom.csic.es |
 | Metazoa | Animals | Animal Chromosome Count Database | https://cromanpa94.github.io/ACC/category/other.html |
+| Arthropoda | Animals | Arthropoda Cytogenetics | https://arthropodacytogenetics.bio.br/spiderdatabase/ |
